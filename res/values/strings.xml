@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">ZXingJarDemo</string>
+	<string name="scan">Scanear</string>
+	<string name="scan_resut_lable">Resultado do scaneamento:</string>
+	<string name="msg_default_status">Posicione a camera no QR Code </string>
+</resources>
